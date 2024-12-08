@@ -20,7 +20,6 @@ Welcome to my GitHub profile, where I embody the spirit of **Kraven**, a charact
 I’m constantly evolving and learning new things. Here’s what I’m currently working on:
 
 - **AI/ML Exploration**: Diving into machine learning models and algorithms to build my skills.
-- **Web Development**: Learning the ropes of full-stack development with JavaScript and React.
 - **Cybersecurity**: Developing an interest in ethical hacking and building secure systems.
 
 ---
