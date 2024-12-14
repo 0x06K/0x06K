@@ -45,4 +45,4 @@ I’m always open to interesting and challenging projects. If you’d like to co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&hide_title=true&hide=prs)
 
 
-Feel free to connect with me. If you're looking for someone who will be there for you when the chips are down, I'm your person.
+
