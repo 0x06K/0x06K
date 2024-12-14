@@ -9,7 +9,7 @@ Welcome to my GitHub profile, where I embody the spirit of **Kraven**, a charact
 - **🔐 Malware Development:** I enjoy learning how malware works and how to protect against it.
 - **🕵️‍♂️ Reverse Engineering:** I like breaking down software to find weaknesses and understand how they work.
 - **🌳 Nature Lover:** I find peace in walking alone and observing the calming beauty of nature.
-- **💻 Cybersecurity Student:** I’m studying Cybersecurity to improve my skills and protect systems.
+- **💻 Cybersecurity Student:** Currently i am doing BS in Cybersecurity
 
 ---
  
