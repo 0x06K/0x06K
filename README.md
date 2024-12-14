@@ -6,11 +6,10 @@ Welcome to my GitHub profile, where I embody the spirit of **Kraven**, a charact
 
 ## 💡 **About Me**
 
-- **🤝 Loyal**: Once I commit, I stay by your side—no matter what. Loyalty is a sacred bond.  
-- **🛡️ Protector**: A quiet guardian, watching over those I care about with fierce devotion.  
-- **💪 Resilient**: Life throws challenges my way, but I rise every time, stronger than before.  
-- **🔍 Cynical yet Hopeful**: I may question people’s motives, but deep down, I hold onto a quiet hope.  
-- **🧱 Emotional Endurance**: I carry emotional weight without flinching—an emotional fortress.  
+- **🔐 Malware Development:** I enjoy learning how malware works and how to protect against it.
+- **🕵️‍♂️ Reverse Engineering:** I like breaking down software to find weaknesses and understand how they work.
+- **🌳 Nature Lover:** Walking alone in nature helps me relax and find peace.
+- **💻 Cybersecurity Student:** I’m studying Cybersecurity to improve my skills and protect systems.
 
 ---
  
