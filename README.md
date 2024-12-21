@@ -1,7 +1,4 @@
 # 🌑 **I am Kraven.** 🌑
-
-Welcome to my GitHub profile, where I embody the spirit of **Kraven**, a character of unwavering loyalty, emotional depth, and resilience.  
-
 ---
 
 ## 💡 **About Me**
