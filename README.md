@@ -22,9 +22,9 @@ I’m constantly evolving and learning new things. Here’s what I’m currently
 |----------------------------------|-------------------------------------------------|---------------------|
 | PasswordManager                  | Password Manager with enc/dec written in C++    | 2024-02-24          |
 | chess                            | GUI based chess game with database integration  | 2024-07-13          |
-| ByteScanner                      | A simple python port scanning incomplete tool   | 2024-10-31          |
+| ByteScanner                      | A simple Python based port Scanner              | 2024-10-31          |
 | network-traffic-classifier-model | classifies network traffic as malicious or nomal| 2024-12-11          |
-
+| PakSimLookup                     | A simple Python based web-scraper               | 2024-12-26          |
 ---
 
 ## 📝 **Personal Motto**
