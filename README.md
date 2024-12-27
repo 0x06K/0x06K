@@ -25,6 +25,7 @@ I’m constantly evolving and learning new things. Here’s what I’m currently
 | ByteScanner                      | A simple Python based port Scanner              | 2024-10-31          |
 | network-traffic-classifier-model | classifies network traffic as malicious or nomal| 2024-12-11          |
 | PakSimLookup                     | A simple Python based web-scraper               | 2024-12-26          |
+| ChatApp                          | A secure chat application(C++) maybe with GUI   | Ongoing             |
 ---
 
 ## 📝 **Personal Motto**
