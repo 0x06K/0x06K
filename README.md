@@ -18,16 +18,16 @@ I’m constantly evolving and learning new things. Here’s what I’m currently
 - **AI/ML Exploration**: Diving into machine learning models and algorithms to build my skills.
 - **Cybersecurity**: Developing an interest in ethical hacking and building secure systems.
 
-| Repository Name                  | Description                                                                            | Last Updated        |
-|----------------------------------|----------------------------------------------------------------------------------------|---------------------|
-| PasswordManager                  | Password Manager with enc/dec written in C++                                           | 2024-02-24          |
-| chess                            | GUI based chess game with database integration                                         | 2024-07-13          |
-| ByteScanner                      | A specialized antivirus tool focused on detecting malware in EXE and ELF               | Ongoing             |
-| network-traffic-classifier-model | classifies network traffic as malicious or nomal                                       | 2024-12-11          |
-| PakSimLookup                     | Retrieves SIM card ownership details based on CNIC and phone number                    | 2024-12-26          |
-| ChatApp                          | A secure GUI Based chat application(C#)                                                | PostPonded          |
-| WAF                              | Basic Web Application Firewall                                                         | Planned             |
-| HiddenTrace                      | A tool for detecting hidden data in digital files.                                     | Planned             |
+| Repository Name                  | Description                                                                            | Last Updated   |
+|----------------------------------|----------------------------------------------------------------------------------------|----------------|
+| PasswordManager                  | Password Manager with enc/dec written in C++                                           | 2024-02-24     |
+| chess                            | GUI based chess game with database integration                                         | 2024-07-13     |
+| network-traffic-classifier-model | classifies network traffic as malicious or nomal                                       | 2024-12-11     |
+| PakSimLookup                     | Retrieves SIM card ownership details based on CNIC and phone number                    | 2024-12-26     |
+| ChatApp                          | A secure GUI Based chat application(C#)                                                | PostPonded     |
+| HiddenTrace                      | A tool for detecting hidden data in digital files.                                     | Ongoing        |
+| WAF                              | Basic Web Application Firewall                                                         | Planned        |
+| ByteScanner                      | A specialized antivirus tool focused on detecting malware in EXE and ELF               | Planned        |
 ---
 
 ## 📝 **Personal Motto**
