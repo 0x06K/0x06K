@@ -25,6 +25,7 @@ I’m constantly evolving and learning new things. Here’s what I’m currently
 | network-traffic-classifier-model | classifies network traffic as malicious or nomal                                       | 2024-12-11     |
 | PakSimLookup                     | Retrieves SIM card ownership details based on CNIC and phone number                    | 2024-12-26     |
 | ChatApp                          | A secure GUI Based chat application(C#)                                                | 2025-01-11     |
+| KeyLogger                        | Simple keylogger in C language (windows api)                                           | Ongoing        |
 | HiddenTrace                      | A tool for detecting hidden data in digital files.                                     | Planned        |
 | WAF                              | Basic Web Application Firewall                                                         | Planned        |
 | ByteScanner                      | A specialized antivirus tool focused on detecting malware in EXE and ELF               | Planned        |
