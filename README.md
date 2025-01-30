@@ -1,4 +1,4 @@
-# 🌑 **I am Kraven.** 🌑
+# 🏴‍☠️ Kraven | Cybersecurity Enthusiast 🏴‍☠️
 ---
 
 ## 💡 **About Me**
@@ -12,23 +12,20 @@
  
 
 
-## 🚀 **Ongoing Projects & Learning Goals**
-I’m constantly evolving and learning new things. Here’s what I’m currently working on:
+## 🚀 Active Projects
 
-- **AI/ML Exploration**: Diving into machine learning models and algorithms to build my skills.
-- **Cybersecurity**: Developing an interest in ethical hacking and building secure systems.
+| 🗂 Repository                     | 📜 Description                                                   | 🛠 Status |
+|----------------------------------|----------------------------------------------------------------|----------|
+| **PasswordManager**              | Encrypted password storage in C++                             | ✅ Done  |
+| **Chess**                        | GUI-based Chess game with database integration                | ✅ Done  |
+| **TrafficClassifier**            | ML model for network traffic analysis                         | ✅ Done  |
+| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                              | 🛠 Active |
+| **ChatApp**                      | Secure chat application in C#                                 | 🛠 Active |
+| **KeyLogger**                    | Stealthy keylogger in C (Windows API)                        | 🔥 Ongoing |
+| **HiddenTrace**                   | Digital forensic tool for uncovering hidden data             | ⏳ Planned |
+| **WAF**                           | Custom Web Application Firewall                              | ⏳ Planned |
+| **ByteScanner**                   | Malware scanner focused on EXE & ELF files                   | ⏳ Planned |
 
-| Repository Name                  | Description                                                                            | Last Updated   |
-|----------------------------------|----------------------------------------------------------------------------------------|----------------|
-| PasswordManager                  | Password Manager with enc/dec written in C++                                           | 2024-02-24     |
-| chess                            | GUI based chess game with database integration                                         | 2024-07-13     |
-| network-traffic-classifier-model | classifies network traffic as malicious or nomal                                       | 2024-12-11     |
-| PakSimLookup                     | Retrieves SIM card ownership details based on CNIC and phone number                    | 2024-12-26     |
-| ChatApp                          | A secure GUI Based chat application(C#)                                                | 2025-01-11     |
-| KeyLogger                        | Simple keylogger in C language (windows api)                                           | Ongoing        |
-| HiddenTrace                      | A tool for detecting hidden data in digital files.                                     | Planned        |
-| WAF                              | Basic Web Application Firewall                                                         | Planned        |
-| ByteScanner                      | A specialized antivirus tool focused on detecting malware in EXE and ELF               | Planned        |
 ---
 
 ## 📝 **Personal Motto**
@@ -41,9 +38,12 @@ I’m always open to interesting and challenging projects. If you’d like to co
 - 📧 **Email**: [kabeercybersec@gmail.com](mailto:your.email@example.com)
 
 ---
+## 📊 GitHub Stats
 
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0kraven&layout=compact&theme=gruvbox&hide_border=true)
+
+
 
 
 
