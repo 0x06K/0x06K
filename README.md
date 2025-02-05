@@ -14,28 +14,24 @@
 
 ## 🚀 Active Projects
 
-| 🗂 Repository                     | 📜 Description                                                   | 🛠 Status |
-|----------------------------------|----------------------------------------------------------------|----------|
-| **PasswordManager**              | Encrypted password storage in C++                             | ✅ Done  |
-| **Chess**                        | GUI-based Chess game with database integration                | ✅ Done  |
-| **TrafficClassifier**            | ML model for network traffic analysis                         | ✅ Done  |
-| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                              | 🛠 Active |
-| **ChatApp**                      | Secure chat application in C#                                 | 🛠 Active |
-| **KeyLogger**                    | Stealthy keylogger in C (Windows API)                        | 🔥 Ongoing |
-| **HiddenTrace**                   | Digital forensic tool for uncovering hidden data             | ⏳ Planned |
-| **WAF**                           | Custom Web Application Firewall                              | ⏳ Planned |
-| **ByteScanner**                   | Malware scanner focused on EXE & ELF files                   | ⏳ Planned |
+| 🗂 Repository                     | 📜 Description                                                | 🛠 Status |
+|----------------------------------|----------------------------------------------------------------|-----------|
+| **KeyLogger**                    | Stealthy keylogger in C (Windows API) {private repo}           | ✅ Done  |
+| **lookatvictim**                 | A RAT with a lot of features coded in C (Windows API)          | 🔥 Ongoing |
+| **PasswordManager**              | Encrypted password storage in C++                              | ✅ Done  |
+| **Chess**                        | GUI-based Chess game with database integration                 | ✅ Done  |
+| **TrafficClassifier**            | ML model for network traffic analysis                          | ✅ Done  |
+| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                               | 🛠 Active |
+| **ChatApp**                      | Secure chat application in C#                                  | ✅ Done  |
+| **WAF**                          | Custom Web Application Firewall                                | ⏳ Planned |
+| **ByteScanner**                  | Malware scanner focused on EXE & ELF files                     | ⏳ Planned |
 
 ---
 
 ## 📝 **Personal Motto**
 _"Strength is not measured by how you stand when things are easy, but by how you rise when everything falls apart."_
 
----
 
-## 🤝 **Let's Collaborate!**
-I’m always open to interesting and challenging projects. If you’d like to collaborate or discuss anything related to tech, feel free to reach out!
-- 📧 **Email**: [kabeercybersec@gmail.com](mailto:your.email@example.com)
 
 ---
 ## 📊 GitHub Stats
