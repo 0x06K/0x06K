@@ -21,7 +21,7 @@
 | **PasswordManager**              | Encrypted password storage in C++                              | ✅ Done  |
 | **Chess**                        | GUI-based Chess game with database integration                 | ✅ Done  |
 | **TrafficClassifier**            | ML model for network traffic analysis                          | ✅ Done  |
-| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                               | 🛠 Active |
+| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                               | ✅ Done  |
 | **ChatApp**                      | Secure chat application in C#                                  | ✅ Done  |
 | **WAF**                          | Custom Web Application Firewall                                | ⏳ Planned |
 | **ByteScanner**                  | Malware scanner focused on EXE & ELF files                     | ⏳ Planned |
