@@ -1,7 +1,7 @@
 ## kraven@root:~# `whoami`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=500&lines= 0kraven | justanormalguy.;Malware+Developer;CTF+Player;Reverse+Engineer;Exploit+Developer;Penetester;Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=500&lines= 0kraven | justanormalguy.;Malware+Developer;CTF+Player;Reverse+Engineer;Exploit+Developer;Pentester;Programmer" alt="Typing SVG" />
 </p>
 
 
