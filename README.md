@@ -48,7 +48,7 @@ _"Strength is not measured by how you stand when things are easy, but by how you
 
 <p align="center">
     <a href="https://github.com/0kraven">
-	    <img alt="0kraven Github Stats" src="https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0kraven&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="0kraven" height="230px"/>
+	    <img alt="0kraven Github Stats" src="https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="260px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0kraven&langs_count=20&show_icons=true&locale=en&theme=tokyonight" alt="0kraven" height="260px"/>
 <br/>
 </a>
