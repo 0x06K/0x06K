@@ -28,7 +28,7 @@
 
 | 🗂 Repository                     | 📜 Description                                                | 🛠 Status |
 |----------------------------------|----------------------------------------------------------------|-----------|
-| **KeyLogger**                    | Stealthy keylogger in C (Windows API) {private repo}           | ✅ Done  |
+| **KeyLogger**                    | Stealthy keylogger in asm (Windows API)                        | 🔥 Ongoing |
 | **lookatvictim**                 | A RAT with a lot of features coded in C (Windows API)          | 🔥 Ongoing |
 | **PasswordManager**              | Encrypted password storage in C++                              | ✅ Done  |
 | **Chess**                        | GUI-based Chess game with database integration                 | ✅ Done  |
