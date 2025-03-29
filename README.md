@@ -1,8 +1,13 @@
 ## kraven@root:~# `whoami`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=500&lines= 0kraven | justanormalguy.;Malware+Developer;CTF+Player;Reverse+Engineer;Exploit+Developer;Pentester;Programmer" alt="Typing SVG" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=500&lines= 0kraven | justanormalguy.;Malware+Developer;CTF+Player;Reverse+Engineer;Exploit+Developer;Pentester;Programmer" alt="Typing SVG" />
 </p>
+
+
+
+
+
 
 
 ## kraven@root:~# `ls contacts`
@@ -48,7 +53,7 @@
 
 <p align="center">
     <a href="https://github.com/0kraven">
-	    <img alt="0kraven Github Stats" src="https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="260px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0kraven&langs_count=20&show_icons=true&locale=en&theme=tokyonight" alt="0kraven" height="260px"/>
+	    <img alt="0kraven Github Stats" src="https://github-readme-stats.vercel.app/api?username=0kraven&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0kraven&langs_count=20&show_icons=true&locale=en&theme=tokyonight" alt="0kraven" height="200px"/>
 <br/>
 </a>
