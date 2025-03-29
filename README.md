@@ -28,20 +28,20 @@
 
 | 🗂 Repository                     | 📜 Description                                                | 🛠 Status |
 |----------------------------------|----------------------------------------------------------------|-----------|
-| **KeyLogger**                    | Stealthy keylogger in asm (Windows API)                        | 🔥 Ongoing |
-| **lookatvictim**                 | A RAT with a lot of features coded in C (Windows API)          | 🔥 Ongoing |
-| **PasswordManager**              | Encrypted password storage in C++                              | ✅ Done  |
-| **Chess**                        | GUI-based Chess game with database integration                 | ✅ Done  |
-| **TrafficClassifier**            | ML model for network traffic analysis                          | ✅ Done  |
-| **PakSimLookup**                 | CNIC & SIM ownership lookup tool                               | ✅ Done  |
-| **ChatApp**                      | Secure chat application in C#                                  | ✅ Done  |
-| **WAF**                          | Custom Web Application Firewall                                | ⏳ Planned |
-| **ByteScanner**                  | Malware scanner focused on EXE & ELF files                     | ⏳ Planned |
+| **[PasswordManager](https://github.com/0kraven/PasswordManager)**  | Encrypted password storage in C++                               | ✅ Done  |
+| **[Chess](https://github.com/0kraven/Chess)**                      | GUI-based Chess game with database integration                  | ✅ Done  |
+| **[TrafficClassifier](https://github.com/0kraven/network-traffic-classifier-model)** | ML model for network traffic analysis         | ✅ Done  |
+| **[PakSimLookup](https://github.com/0kraven/PakSimLookup)**         | CNIC & SIM ownership lookup tool                               | ✅ Done  |
+| **[ZeroDayCrew](https://github.com/0kraven/ZeroDayCrew)**           | Secure chat application in C#                                  | ✅ Done  |
+| **[Splashify](https://github.com/0kraven/Splashify)**               | Epic GRUB menu, Splash Screen and cool login screen.	       | ✅ Done  |
+
 
 ---
+## kraven@root:~# `ls recommendation`
 
-## kraven@root:~# `cat personal_moto.txt`
-_"Strength is not measured by how you stand when things are easy, but by how you rise when everything falls apart."_
+### 🚀 Must-Check Repo for Malware & Exploit Dev! 🔥  
+**If you're diving into Malware & Exploit Development, this repo is a goldmine:**  
+👉 **[MalDevJournal](https://github.com/0kraven/MalDevJournal)** 👈  
 
 ---
 ## kraven@root:~# `show stats`
