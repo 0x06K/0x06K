@@ -5,7 +5,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/1ee46fff-9fd0-4406-8865-a45675af0071" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="330" /> 
 
 ```csharp
-TBHIDK24@github
+0X06K@github
 ---------------------------------------------
 OS: Kali GNU/Linux Roll
 Shell: zsh 5.8
