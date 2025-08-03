@@ -10,7 +10,7 @@
 OS: Kali GNU/Linux Roll
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: 127.0.0.1
+Projects: Working on a <PE-Loader>
 Tools: Splunk, BurpSuit, Nmap, Wireshark
 Languages: C/C++, MASM, Python, Bash
 Learning: Reverse-Engineering, Exploits,
