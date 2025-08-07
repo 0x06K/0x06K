@@ -43,7 +43,7 @@ but still enough for my soul to glitch.
   </tr>
   <tr>
     <td colspan="2">
-      <pre><code>> cat /0x06k/home/Desktop/discord.txt</code></pre>
+      <pre><code>> cat /0x06k/home/Desktop/links.txt</code></pre>
     </td>
   </tr>
   <!-- Row 2: 60% image + 40% communities list -->
@@ -53,15 +53,23 @@ but still enough for my soul to glitch.
     </td>
     <td width="60%">
 <pre><code>
-	
+Discord:
  OS Development
+	
 ├─ https://discord.gg/Tn8y6AQ9
 ├─ https://discord.gg/R72A9kQb
 └─ https://discord.gg/osdev
 	
-Rootkits & Fuzzing
+ Rootkits & Fuzzing
 ├─ https://discord.gg/jjPpky6Q
 └─ https://discord.gg/vhjCwb8S
+
+Others:
+├─ https://ctftime.org/event/list/upcoming (CTF)
+├─ https://malwaretech.com (Maldev)
+└─ https://blueteamlabs.online (SOC)
 </code></pre>
+
+
 </td>
 </table>
