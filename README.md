@@ -68,6 +68,8 @@ Others:
 ├─ https://ctftime.org/event/list/upcoming (CTF)
 ├─ https://malwaretech.com (Maldev)
 └─ https://blueteamlabs.online (SOC)
+
+thanks me later xD
 </code></pre>
 
 
