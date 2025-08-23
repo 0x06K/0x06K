@@ -18,7 +18,7 @@
 OS: Kali GNU/Linux Roll
 Shell: zsh 5.8
 Pronouns: He/Him
-Projects: Working on a &lt;DataStructures&gt;
+Projects: Working on &lt;DataStructures&gt;
 Tools: Splunk, BurpSuite, Nmap, Wireshark
 Languages: C/C++, MASM, Python, Bash
 Learning: Reverse-Engineering, Exploits,
