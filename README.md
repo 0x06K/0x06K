@@ -15,7 +15,7 @@
 <pre><code>
 0X06K@github
 ---------------------------------------------
-OS: Kali GNU/Linux Roll
+OS: Arch Linux
 Shell: zsh 5.8
 Pronouns: He/Him
 Projects: Working on &lt;DataStructures&gt;
