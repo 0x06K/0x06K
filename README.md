@@ -15,7 +15,7 @@
 <pre><code>
 0X06K@github
 ---------------------------------------------
-OS: Arch Linux
+OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Projects: Working on &lt;DataStructures&gt;
